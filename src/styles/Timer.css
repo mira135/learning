@@ -3,9 +3,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 8rem;
+  gap: 5.2rem;
   width: 56rem;
   height: 100vh;
   margin: 0 auto;
   background-color: #eff6e0;
+  border-radius: 21px;
 }
